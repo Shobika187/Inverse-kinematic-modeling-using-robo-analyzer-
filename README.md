@@ -56,7 +56,9 @@ update the DH parameters of the link configuration and end effector configuratio
 ```
 ### SIMULATION 
 
- 
+ ![Screenshot (244)](https://user-images.githubusercontent.com/94508142/174326047-96083aea-6e6a-4d9c-966b-9f4c84ae54eb.png)
+![Screenshot (245)](https://user-images.githubusercontent.com/94508142/174326132-4bfef8a1-0e3e-4935-bfe7-1ec146e67288.png)
+
  
  
  ### RESULTS :  
